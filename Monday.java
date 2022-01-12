@@ -33,7 +33,6 @@ public class Monday extends Weekday {
             System.out.println("Invalid input please try again...");
         }
 
-
     }
 }
 
